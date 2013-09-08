@@ -80,7 +80,7 @@ $string['perfinfodesc'] = 'Muitos sítios não necessitam da informação detalh
 $string['perf_max'] = 'Detalhado';
 $string['perf_min'] = 'Mínimo';
 $string['visibleadminonly'] = 'Os blocos movidos para esta área só serão vistos pelos administradores';
-$string['backtotop'] = 'Regresar ao topo';
+$string['backtotop'] = 'Regressar ao topo';
 
 /* CustomMenu */
 $string['custommenuheading'] = 'Menu Personalizado';
