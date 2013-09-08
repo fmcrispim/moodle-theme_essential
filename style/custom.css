@@ -116,10 +116,10 @@ a.logo {
     background: url([[setting:logo]]) no-repeat 0 0;
     display: block;
     float: left;
-    height: 75px;
+    height: 100px;
     margin: 0;
     padding: 0;
-    width: 100%;
+    width: 150%;
     background-size: contain;
 }
 
