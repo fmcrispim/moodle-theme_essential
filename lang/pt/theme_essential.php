@@ -130,11 +130,11 @@ $string['region-footer-right'] = 'Pé de página  (Direita)';
 $string['region-hidden-dock'] = 'Oculto aos utilizadores';
 
 /* Colours */
-$string['colorheading'] = 'Colour Settings';
-$string['colorheadingsub'] = 'Set the colours used in your theme';
-$string['colordesc'] = 'Here you can find various settings to change many of the colours found in this theme.';
+$string['colorheading'] = 'Definições de Cor';
+$string['colorheadingsub'] = 'Defina as cores a utilizar no tema';
+$string['colordesc'] = 'Aqui pode encontrar vários parâmetros que permitem alterar muitas das cores utilizadas neste tema.';
 
-$string['themecolor'] = 'Theme Colour';
+$string['themecolor'] = 'Cor do Tema';
 $string['themecolordesc'] = 'What colour should your theme be.  This will change mulitple components to produce the colour you wish across the moodle site';
 $string['themehovercolor'] = 'Theme Hover Colour';
 $string['themehovercolordesc'] = 'What colour should your theme hovers be. This is used for links, menus, etc';
@@ -154,42 +154,42 @@ $string['pagebackground'] = 'Page Background Image';
 $string['pagebackgrounddesc'] = 'Upload your own background image.  This will be tiled in the background on all pages.  If none is uploaded a default image is used.';
 
 /* Frontpage Content */
-$string['frontcontentheading'] = 'Frontpage Content';
-$string['frontcontentheadingsub'] = 'Add information to your frontpage for users';
-$string['frontcontentdesc'] = 'This adds a custom content area inbetween the Slideshow and the Marketing boxes for your own custom content';
+$string['frontcontentheading'] = 'Conteúdo da Página Inicial';
+$string['frontcontentheadingsub'] = 'Adicione informação para os utilizadores à página inicial';
+$string['frontcontentdesc'] = 'Permite adicionar uma área parametrizada no espaço entre o Slideshow e as zonas de Marketing com conteúdo parametrizado';
 
-$string['usefrontcontent'] = 'Enable Frontpage content';
-$string['usefrontcontentdesc'] = 'If enabled this will display the content of the box below inbetween the Slideshow and the Marketing spots.';
+$string['usefrontcontent'] = 'Ativar o conteúdo da Página Inicial';
+$string['usefrontcontentdesc'] = 'Se ativo, irá apresentar o conteúdo desta área de texto no espaço entre o Slideshow e as zonas de Marketing com conteúdo parametrizado.';
 
-$string['frontcontentarea'] = 'Frontpage Content';
-$string['frontcontentareadesc'] = 'Whatever is typed into this box will display across the full width of the page inbetween the Slideshow and the Marketing spots ';
+$string['frontcontentarea'] = 'Conteúdo da Página Inicial';
+$string['frontcontentareadesc'] = 'O que aqui for introduzido será apresentado a toda a largura, no espaço entre o Slideshow e as zonas de Marketing com conteúdo parametrizado.';
 
 /* Slideshow */
-$string['slideshowheading'] = 'Frontpage Slideshow';
-$string['slideshowheadingsub'] = 'Dynamic Slideshow for the frontpage';
-$string['slideshowdesc'] = 'This creates a dynamic slideshow of up to 4 slides for you to promote important elements of your site.';
+$string['slideshowheading'] = 'Slideshow da Página Inicial';
+$string['slideshowheadingsub'] = 'Slideshow dinâmico para a Página Inicial';
+$string['slideshowdesc'] = 'Cria um slideshow dinâmico com até quatro diapositivos, para promoção de elementos importantes.';
 
-$string['hideonphone'] = 'Slideshow on Mobiles';
-$string['hideonphonedesc'] = 'Choose if you wish to have the slideshow shown on mobiles or not';
-$string['display'] = 'Display';
-$string['dontdisplay'] = 'Do not Display';
-$string['readmore'] = 'Read More';
+$string['hideonphone'] = 'Slideshow em dispositivos móveis';
+$string['hideonphonedesc'] = 'Escolher se pretende apresentar o slideshow em dispositivos móveis ou não';
+$string['display'] = 'Mostrar';
+$string['dontdisplay'] = 'Não mostrar';
+$string['readmore'] = '[+] Ver mais';
 
 $string['slideshowTitle'] = 'Slideshow';
-$string['slideinfodesc'] = 'Enter the settings for your slide.';
-$string['slide1'] = 'Slide One';
-$string['slide2'] = 'Slide Two';
-$string['slide3'] = 'Slide Three';
-$string['slide4'] = 'Slide Four';
+$string['slideinfodesc'] = 'Introduza as definições do diapositivo.';
+$string['slide1'] = 'Diapositivo Um';
+$string['slide2'] = 'Diapositivo Dois';
+$string['slide3'] = 'Diapositivo Três';
+$string['slide4'] = 'Diapositivo Quatro';
 
-$string['slidetitle'] = 'Slide Title';
-$string['slidetitledesc'] = 'Enter a descriptive title for your slide';
-$string['slideimage'] = 'Slide Image';
-$string['slideimagedesc'] = 'Image works best if it is transparent. (Image size should be 256px x 256px)';
-$string['slidecaption'] = 'Slide Caption';
-$string['slidecaptiondesc'] = 'Enter the caption text to use for the first slide';
-$string['slideurl'] = 'Slide Link';
-$string['slideurldesc'] = 'Enter the target destination of the first slide\'s image link';
+$string['slidetitle'] = 'Título do diapositivo';
+$string['slidetitledesc'] = 'Introduza um título descritivo para o diapositivo';
+$string['slideimage'] = 'Imagem do Diapositivo';
+$string['slideimagedesc'] = 'A imagem resulta melhor se utilizar transparências (tamanho máximo de 256px x 256px)';
+$string['slidecaption'] = 'Legenda da imagem';
+$string['slidecaptiondesc'] = 'Introduza o texto da legenda da imagem do primeiro diapositivo';
+$string['slideurl'] = 'Hiperligação do diapositivo';
+$string['slideurldesc'] = 'Introduza a hiperligação a utilizar na imagem do primeiro diapositivo';
 
 /* Marketing Spots */
 $string['marketingheading'] = 'Marketing Spots';
@@ -221,41 +221,41 @@ $string['marketingbuttonurl'] = 'Link URL';
 $string['marketingbuttonurldesc'] = 'URL the button will point to.';
 
 /* Social Networks */
-$string['socialheading'] = 'Social Networking';
+$string['socialheading'] = 'Redes Sociais';
 $string['socialheadingsub'] = 'Engage your users with Social Networking';
 $string['socialdesc'] = 'Provide direct links to the core social networks that promote your brand.  These will appear in the header of every page.';
 $string['socialnetworks'] = 'Social Networks';
 $string['facebook'] = 'Facebook URL';
 $string['facebookdesc'] = 'Enter the URL of your Facebook page. (i.e http://www.facebook.com/mycollege)';
 
-$string['twitter'] = 'Twitter URL';
+$string['twitter'] = 'URL do Twitter';
 $string['twitterdesc'] = 'Enter the URL of your Twitter feed. (i.e http://www.twitter.com/mycollege)';
 
-$string['googleplus'] = 'Google+ URL';
+$string['googleplus'] = 'URL do Google+';
 $string['googleplusdesc'] = 'Enter the URL of your Google+ profile. (i.e http://plus.google.com/107817105228930159735)';
 
-$string['linkedin'] = 'LinkedIn URL';
+$string['linkedin'] = 'URL do LinkedIn';
 $string['linkedindesc'] = 'Enter the URL of your LinkedIn profile. (i.e http://www.linkedin.com/company/mycollege)';
 
-$string['youtube'] = 'YouTube URL';
+$string['youtube'] = 'URL do YouTube';
 $string['youtubedesc'] = 'Enter the URL of your YouTube channel. (i.e http://www.youtube.com/mycollege)';
 
-$string['flickr'] = 'Flickr URL';
+$string['flickr'] = 'URL do Flickr';
 $string['flickrdesc'] = 'Enter the URL of your Flickr page. (i.e http://www.flickr.com/mycollege)';
 
-$string['vk'] = 'VKontakte URL';
+$string['vk'] = 'URL do VKontakte';
 $string['vkdesc'] = 'Enter the URL of your Vkontakte page. (i.e http://www.vk.com/mycollege)';
 
-$string['skype'] = 'Skype Account';
+$string['skype'] = 'Conta Skype';
 $string['skypedesc'] = 'Enter the Skype username of your organisations Skype account';
 
-$string['pinterest'] = 'Pinterest URL';
+$string['pinterest'] = 'URL do Pinterest';
 $string['pinterestdesc'] = 'Enter the URL of your Pinterest page. (i.e http://pinterest.com/mycollege)';
 
-$string['instagram'] = 'Instagram URL';
+$string['instagram'] = 'URL do Instagram';
 $string['instagramdesc'] = 'Enter the URL of your Instagram page. (i.e http://instagram.com/mycollege)';
 
-$string['website'] = 'Website URL';
+$string['website'] = 'URL do Website';
 $string['websitedesc'] = 'Enter the URL of your own website. (i.e http://www.pukunui.com)';
 
 /* Mobile Apps */
@@ -300,28 +300,28 @@ $string['analyticsclean'] = 'Send Clean URLs';
 $string['analyticscleandesc'] = 'This fantastic feature was created by <a href="https://moodle.org/user/profile.php?id=281671" target="_blank">Gavin Henrick</a> and <a href="https://moodle.org/user/view.php?id=907814" target="_blank">Bas Brands</a> and is implemented in this theme. Rather than standard Moodle URLs the theme will send out clean URLs making it easier to identify the page and provide advanced reporting. More information on using this feature and its uses can be <b><a href="http://www.somerandomthoughts.com/blog/2012/04/18/ireland-uk-moodlemoot-analytics-to-the-front/" target="_blank">found here</a></b>.';
 
 /* Alerts */
-$string['alertsheading'] = 'User Alerts';
-$string['alertsheadingsub'] = 'Display important messages to your users on the frontpage';
-$string['alertsdesc'] = 'This will display an alert (or multiple) in three different styles to your users on the Moodle frontpage. Please remember to disable these when no longer needed.';
+$string['alertsheading'] = 'Alertas de Utilizadores';
+$string['alertsheadingsub'] = 'Mostrar mensagens importantes aos utilizadores na Página Inicial';
+$string['alertsdesc'] = 'Permite apresentar aos utilizadores um ou múltiplos alerta na Página Inicial, utilizando três estilos diferentes. Por favor, lembre-se de os desativar quando já não forem necessários.';
 
-$string['enablealert'] = 'Enable Alert';
-$string['enablealertdesc'] = 'Enable or disable alerts';
+$string['enablealert'] = 'Ativar Alerta';
+$string['enablealertdesc'] = 'Ativar ou desativar alertas';
 
-$string['alert1'] = 'First Alert';
-$string['alert2'] = 'Second Alert';
-$string['alert3'] = 'Third Alert';
+$string['alert1'] = 'Primeiro Alert';
+$string['alert2'] = 'Segundo Alerta';
+$string['alert3'] = 'Terceiro Alerta';
 
-$string['alerttitle'] = 'Title';
-$string['alerttitledesc'] = 'Main title/heading for your alert';
+$string['alerttitle'] = 'Título';
+$string['alerttitledesc'] = 'Título/cabeçalho do alerta';
 
-$string['alerttype'] = 'Level';
-$string['alerttypedesc'] = 'Set the appropriate alert level/type to best inform your users';
+$string['alerttype'] = 'Nível';
+$string['alerttypedesc'] = 'Defina o nível/tipo de aletra apropriado para melhor informar os utilizadores';
 
-$string['alerttext'] = 'Alert Text';
-$string['alerttextdesc'] = 'What is the text you wish to display in your alert';
+$string['alerttext'] = 'Texto do Alerta';
+$string['alerttextdesc'] = 'Que texto pretende apresentar aos utilizadores no alerta';
 
-$string['alert_info'] = 'Information';
-$string['alert_warning'] = 'Warning';
-$string['alert_general'] = 'Announcement';
+$string['alert_info'] = 'Informação';
+$string['alert_warning'] = 'Aviso';
+$string['alert_general'] = 'Anúncio';
 
-$string['ie7message'] = '<p id="ie7message">Sorry, this site requires <strong>Internet Explorer 8</strong> or higher to display and function correctly.  Please update your browser via Windows Update, or <a href="http://windows.microsoft.com/en-au/internet-explorer/download-ie" target="_blank">download the latest version here</a>.  Alternatively, you can try installing the <a href="http://www.google.com/chromeframe" target="_blank">ChromeFrame plugin</a> which may solve some of the issues experienced in older browsers.  If using IE8 or above you may have Compatibility Mode switched on, turn this off to display this website correctly.  If you continue having problems accessing this website or the updates mentioned above, please contact your Helpdesk for further assistance.</p>';
+$string['ie7message'] = '<p id="ie7message">Desculpe, mas este sítio requer o <strong>Internet Explorer 8</strong> ou superior para ser apresentado e funcionar corretamente. Por favor, atualize o seu navegador através do Windows Update, ou <a href="http://windows.microsoft.com/pt-pt/internet-explorer/ie-10-worldwide-languages" target="_blank">escolha e descarregue a última versão aqui</a>. Se estiver a utilizar o IE8 ou superior, poderá ter o Modo de Compatibilidade ativo. Desligue-o para visualizar este sítio corretamente.</p>';
